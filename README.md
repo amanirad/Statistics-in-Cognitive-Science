@@ -4,5 +4,7 @@ The current repository is for the projects of the statistics course in cognitive
 
 The deadline for this first phase of the projects is Friday, October 27, 2023, (5 Aban 1402) at 11:59 PM Tehran time and will not be extended in any way.
 
+**Deadline of the second project:** The deadline for this second phase of the projects is **Monday, November 6, 2023, (15 Aban 1402) at 11:59 PM Tehran time** and will not be extended in any way.
+
 As soon as the projects are completed, please send just the Jupyter file of your project, which includes the code + detailed report of your project, to the address j.amanirad@gmail.com.
 
