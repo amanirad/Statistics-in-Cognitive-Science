@@ -6,7 +6,7 @@ The deadline for this first phase of the projects is Friday, October 27, 2023, (
 
 Deadline of the second project: The deadline for this second phase of the projects is Friday, November 10, 2023, (19 Aban 1402) at 11:59 PM Tehran time and will not be extended in any way. 
 
-Deadline of the third project: The deadline for this third phase of the projects is **Friday, December 1, 2023, (10 Azar 1402) at 11:59 PM Tehran time** and will not be extended in any way. 
+Deadline of the third project: The deadline for this third phase of the projects is Friday, December 1, 2023, (10 Azar 1402) at 11:59 PM Tehran time and will not be extended in any way. 
 
 **Deadline of the fourth project:** The deadline for this fourth phase of the projects is **Friday, December 15, 2023, (24 Azar 1402) at 11:59 PM Tehran time** and will not be extended in any way. 
 
